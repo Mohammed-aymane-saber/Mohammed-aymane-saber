@@ -1,81 +1,105 @@
-# 👋 Hi, I'm Aymane
+<h1 align="center">Hi 👋, I'm Aymane</h1>
+<h3 align="center">Full-Stack Developer | DevOps & Cloud Enthusiast</h3>
 
-🎓 Computer Engineering student (Génie Informatique – ENSA)  
-💻 Full-Stack Developer with a growing focus on DevOps & Cloud  
-🚀 Passionate about building scalable, automated, and well-structured systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-aymane-saber&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧭 About Me
 
-I design and build full-stack applications with clean architecture, clear separation of concerns, and production-oriented workflows.
+🎓 Computer Engineering student (Génie Informatique – ENSA)  
+💻 Passionate about building **scalable full-stack applications**  
+☁️ Strong interest in **DevOps, CI/CD & Cloud infrastructure**  
+🚀 I focus on **automation, clean architecture, and deployable systems**
 
-I’m particularly interested in:
-- Backend architecture & APIs
-- Containerization and CI/CD pipelines
-- Cloud deployment and automation
-
-I enjoy turning ideas into **deployable systems**, not just code that runs locally.
+> I don’t just code — I build systems that are ready for production.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Laravel (REST APIs, Auth, MVC)
-- Java (OOP, JavaFX, JDBC)
-- ASP.NET / ASP.NET Core
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,java,cs,dotnet" />
+</p>
 
-### Frontend
-- React.js
-- Vue.js
-- Angular
-- HTML, CSS, JavaScript
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,js" />
+</p>
 
-### DevOps & Cloud
-- Docker & Docker Compose
-- GitHub Actions (CI/CD)
-- AWS EC2
-- Linux
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,linux" />
+</p>
 
-### Databases
-- MySQL
-- SQL Server
-- Oracle DB
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis,oracle" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 Full-Stack DevOps Application
-**Laravel + React + MySQL + Docker + GitHub Actions + AWS**
-- Multi-container architecture
-- Automated CI/CD pipeline
-- Deployment on AWS EC2
-- Environment-based configuration
+### 🔥 Full-Stack DevOps Application
+**Laravel • React • MySQL • Docker • GitHub Actions • AWS**
 
-👉 *This project demonstrates my approach to real-world DevOps workflows.*
+✔️ Multi-container Docker architecture  
+✔️ Automated CI/CD pipeline  
+✔️ Deployment on AWS   
+✔️ Environment-based configuration  
+✔️ Real DevOps workflow (build → test → deploy)
 
----
-
-### 🔹 Academic & System Design Projects
-- Object-Oriented Modeling (UML)
-- Modular system architecture
-- Design patterns & documentation
+📌 *This project reflects my transition toward DevOps-oriented development.*
 
 ---
 
-## 📈 What I'm Currently Improving
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-aymane-saber&show_icons=true&theme=tokyonight" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-aymane-saber&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
 - Advanced CI/CD pipelines
-- Cloud architecture basics (AWS)
+- Cloud architecture fundamentals (AWS)
+- Infrastructure as Code (concepts)
 - Backend performance & security
-- Infrastructure as Code concepts
+- System observability & logging
 
 ---
 
-## 📫 Contact
-- LinkedIn: *(add your link)*
-- Email: *(optional)*
+## 🧩 Development Philosophy
+
+- Clean architecture > quick hacks  
+- Automation > manual work  
+- Dockerized environments > “works on my machine”  
+- Fewer projects, better quality  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/Mohammed-aymane-saber">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:mohammedaymanesaber@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
