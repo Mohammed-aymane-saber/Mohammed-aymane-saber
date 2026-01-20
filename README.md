@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Mohammed-aymane-saber 👋
 
-<!--
-**Mohammed-aymane-saber/Mohammed-aymane-saber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a short one-line bio about what you do or are learning.
 
-Here are some ideas to get you started:
+## 🔭 I’m working on
+- Project A — short description
+- Project B — short description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m learning
+- Technology X, Concept Y
+
+## 👯 I’m looking to collaborate on
+- Open-source projects about Z
+
+## 💬 Ask me about
+- Topic1, Topic2
+
+## 📫 How to reach me
+- Email: your-email@example.com
+- Website: https://your-site.example
+- LinkedIn: https://www.linkedin.com/in/your-profile
+
+## ⚡ Fun fact
+- Something short and memorable about you
+
+<!-- Optional: badges and stats -->
+![GitHub followers](https://img.shields.io/github/followers/Mohammed-aymane-saber?label=Follow&style=social)
