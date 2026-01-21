@@ -5,11 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=Mohammed-aymane-saber&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohammed-aymane-saber&theme=tokyonight" alt="trophy" /></a>
+</p>
+
 ---
 
 ## 🧭 About Me
 
-🎓 Computer Engineering student (Génie Informatique – ENSA)  
+🎓 **Computer Engineering student** (Génie Informatique – ENSA)  
 💻 Passionate about building **scalable full-stack applications**  
 ☁️ Strong interest in **DevOps, CI/CD & Cloud infrastructure**  
 🚀 I focus on **automation, clean architecture, and deployable systems**
@@ -18,26 +22,43 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-aymane-saber&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-aymane-saber&layout=compact&theme=tokyonight" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-aymane-saber&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-aymane-saber&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend
+### ⚙️ Backend & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,java,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=laravel,java,cs,dotnet,php,nodejs,express,py" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,html,css,js" />
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,nginx,git,postman" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis,mongodb" />
 </p>
 
 ---
@@ -47,60 +68,40 @@
 ### 🔥 Full-Stack DevOps Application
 **Laravel • React • MySQL • Docker • GitHub Actions • AWS**
 
-✔️ Multi-container Docker architecture  
-✔️ Automated CI/CD pipeline  
-✔️ Deployment on AWS   
-✔️ Environment-based configuration  
-✔️ Real DevOps workflow (build → test → deploy)
+| Feature | Description |
+| :--- | :--- |
+| **Architecture** | Multi-container Docker setup for backend, frontend, and DB |
+| **CI/CD** | Automated pipeline triggered on every push |
+| **Cloud** | Production deployment on AWS infrastructure |
+| **Workflow** | Real DevOps workflow (build → test → deploy) |
 
 📌 *This project reflects my transition toward DevOps-oriented development.*
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-aymane-saber&show_icons=true&theme=tokyonight" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-aymane-saber&theme=tokyo-night" />
-</p>
-
----
-
 ## 🧠 Currently Learning
 
-- Advanced CI/CD pipelines
-- Cloud architecture fundamentals (AWS)
-- Infrastructure as Code (concepts)
-- Backend performance & security
-- System observability & logging
-
----
-
-## 🧩 Development Philosophy
-
-- Clean architecture > quick hacks  
-- Automation > manual work  
-- Dockerized environments > “works on my machine”  
-- Fewer projects, better quality  
+- 🚀 **Advanced CI/CD pipelines** & Infrastructure as Code (Terraform)
+- ☁️ **Cloud Architecture** (AWS/Azure)
+- 🔒 **Backend Performance & Security**
+- 📈 **System Observability & Logging** (ELK Stack, Prometheus)
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/Mohammed-aymane-saber">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/Mohammed-aymane-saber" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
   <a href="mailto:mohammedaymanesaber@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
-⭐ Feel free to explore my repositories and projects
+<p align="center">
+  <b>Thanks for visiting!</b> 😊<br>
+  <i>Fewer projects, better quality. Automation > manual work. Clean architecture > quick hacks.</i>
+</p>
