@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm Aymane</h1>
-<h3 align="center">Full-Stack Developer | DevOps & Cloud Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=Hi%20I'm%20Aymane&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Systems;Automation+Addict" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight&type=horizontal" alt="Dev Quote" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammed-aymane-saber&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@Mohammed-aymane-saber?theme=moebooru" alt="Moe Counter" />
+</p>
 
 ---
 
@@ -20,6 +31,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohammed-aymane-saber/Mohammed-aymane-saber/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -29,10 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-aymane-saber&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-aymane-saber&theme=tokyo-night" />
 </p>
 
 ---
@@ -61,9 +78,17 @@
 
 ---
 
+## 🚀 Recent Activity
+
+<!--START_SECTION:activity-->
+*Hang tight! My latest activity is being fetched...*
+<!--END_SECTION:activity-->
+
+---
+
 ## 🚀 Featured Projects
 
-### 🔥 Full-Stack DevOps Application
+### Full-Stack DevOps Application
 **Laravel • React • MySQL • Docker • GitHub Actions • AWS**
 
 | Feature | Description |
@@ -72,8 +97,6 @@
 | **CI/CD** | Automated pipeline triggered on every push |
 | **Cloud** | Production deployment on AWS infrastructure |
 | **Workflow** | Real DevOps workflow (build → test → deploy) |
-
-📌 *This project reflects my transition toward DevOps-oriented development.*
 
 ---
 
@@ -88,18 +111,20 @@
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/Mohammed-aymane-saber" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohammedaymanesaber@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Mohammed-aymane-saber" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting!</b> 😊<br>
-  <i>Fewer projects, better quality. Automation > manual work. Clean architecture > quick hacks.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F736BC&center=true&vCenter=true&width=435&lines=Fewer+projects%2C+better+quality.;Automation+%3E+manual+work.;Clean+architecture+%3E+quick+hacks." alt="Typing SVG" />
 </p>
