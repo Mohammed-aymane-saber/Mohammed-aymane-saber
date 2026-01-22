@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *' # Run every hour
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update this repo's README with recent activity
