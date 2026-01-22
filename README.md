@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=Hi%20I'm%20Aymane&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Systems;Automation+Addict" alt="Typing SVG" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight&type=horizontal" alt="Dev Quote" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 <p align="center">
