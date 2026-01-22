@@ -77,13 +77,6 @@
 
 ---
 
-## 🚀 Recent Activity
-
-<!--START_SECTION:activity-->
-*Hang tight! My latest activity is being fetched...*
-<!--END_SECTION:activity-->
-
----
 
 ## 🚀 Featured Projects
 
