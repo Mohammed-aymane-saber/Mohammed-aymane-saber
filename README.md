@@ -5,16 +5,10 @@
 
 
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammed-aymane-saber&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@Mohammed-aymane-saber?theme=moebooru" alt="Moe Counter" />
 </p>
 
 ---
