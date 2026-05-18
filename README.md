@@ -74,7 +74,7 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-*Hang tight! My latest activity is being fetched...*
+1. 🎉 Merged PR [#41](https://github.com/Oumhella/ChriOnline-Client-Server-App/pull/41) in [Oumhella/ChriOnline-Client-Server-App](https://github.com/Oumhella/ChriOnline-Client-Server-App)
 <!--END_SECTION:activity-->
 
 ---
