@@ -74,7 +74,7 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/Oumhella/ChriOnline-Client-Server-App/pull/41) in [Oumhella/ChriOnline-Client-Server-App](https://github.com/Oumhella/ChriOnline-Client-Server-App)
+1. 🎉 Merged PR [#43](https://github.com/AmineElBiyadi/SGITU-Microservices/pull/43) in [AmineElBiyadi/SGITU-Microservices](https://github.com/AmineElBiyadi/SGITU-Microservices)
 <!--END_SECTION:activity-->
 
 ---
