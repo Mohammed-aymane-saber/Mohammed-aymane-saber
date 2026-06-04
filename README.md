@@ -74,7 +74,7 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/AmineElBiyadi/SGITU-Microservices/pull/43) in [AmineElBiyadi/SGITU-Microservices](https://github.com/AmineElBiyadi/SGITU-Microservices)
+1. 🎉 Merged PR [#1](https://github.com/ism4il-04/spawnta/pull/1) in [ism4il-04/spawnta](https://github.com/ism4il-04/spawnta)
 <!--END_SECTION:activity-->
 
 ---
