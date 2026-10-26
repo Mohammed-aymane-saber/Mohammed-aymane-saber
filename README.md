@@ -74,7 +74,7 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ism4il-04/spawnta/pull/1) in [ism4il-04/spawnta](https://github.com/ism4il-04/spawnta)
+1. 🎉 Merged PR [#2](https://github.com/Mohammed-aymane-saber/CTF-2026/pull/2) in [Mohammed-aymane-saber/CTF-2026](https://github.com/Mohammed-aymane-saber/CTF-2026)
 <!--END_SECTION:activity-->
 
 ---
