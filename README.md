@@ -74,7 +74,7 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Mohammed-aymane-saber/CTF-2026/pull/2) in [Mohammed-aymane-saber/CTF-2026](https://github.com/Mohammed-aymane-saber/CTF-2026)
+1. 🎉 Merged PR [#3](https://github.com/Mohammed-aymane-saber/CTF-2026/pull/3) in [Mohammed-aymane-saber/CTF-2026](https://github.com/Mohammed-aymane-saber/CTF-2026)
 <!--END_SECTION:activity-->
 
 ---
